@@ -1,0 +1,19 @@
+
+
+
+//C:\Users\gibbens\Documents\Arduino\AirMouse\MPU-6050-master\MPU6050IMU is the current head of this project
+
+
+C:\Users\gibbens\Documents\Arduino\AirMouse\i2cdevlib-master\Arduino\MPU6050\examples\MPU6050_DMP6 is the current head of this project
+
+
+
+Push button tutorial https://www.pjrc.com/teensy/tutorial3.html
+
+Current head is:
+Which has a button on pin 8 to active serial printing...
+C:\Users\gibbens\Documents\Arduino\AirMouse\i2cdevlib-master\Arduino\MPU6050\examples\MPU6050_DMP6_BUTTON_COUNT
+Printing out in \t format [time p r y y x z]
+
+State of the art with auto calibration
+C:\Users\gibbens\Documents\Arduino\AirMouse\i2cdevlib-master\Arduino\MPU6050\examples\MPU6050_DMP6_AUTO_CALIB
